@@ -20,5 +20,5 @@ pip install -r requirements.txt
 
 ## Executar o script
 ```bash
-python brasileirao_sim.py
+python brasileirao_sim.py classificacao.json
 ```
